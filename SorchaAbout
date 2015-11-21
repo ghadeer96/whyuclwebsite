@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+	<html lang="en">
+		<head>
+			<link href='https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200' rel='stylesheet' type='text/css'>
+				<title>Sorcha</title>
+		<META NAME="description" CONTENT="Sorcha's About Me Page">
+		<META NAME="keywords" CONENT="Sorcha, about, me, UCL, Arts, Sciences">
+			<link rel="stylesheet" href="css.style">
+			<link rel="stylesheet" href="layout.css">
+		</head>
+		<body>
+			<h1><b><em>S</em></b> o r c h a<b>    <em>I</em></b> n c e </h1>
+		<p class="under"><em>1st year undergraduate <b>BASc</b> student at <b>UCL</b></em></p>
+	<article><h2>About Me</h2></article>
+		<article><p>I'm a vegan, beginner-coder, wanna-be programmer(and runner!), I'm also a BASc student at UCL (BASc is short form for the Arts and Sciences Degree).</p></article>
+		<article><p>In 10 years time I want to be running my own company or work in a start-up. Whereever I end up I want to have a great time with great people.</p></article>
+		<article><p>My course is the best one UCL offers in terms of helping me achieve my goals - and suiting my crazy variety of interests! The nature of this course means I study a whole range of subjects so my knowledge is broad but also indepth.
+			<ul>
+				<li>Biochemistry and Molecular Biology</li>
+				<li>Open Source Synthetic Biology</li>
+				<li>Statistics and Computing</li>
+				<li>Macroeconomics</li>
+				<li><b>Mandarin</b></li>
+			</ul>
+		</p></article>
+	<div>
+		<article><h1 class="serious">Interested in the BASc?</h1></article>
+			<article><p>If you think BASc is for you, check it out in more detail <a href="https://www.ucl.ac.uk/basc">HERE</a>.</p></article>
+	</div>
+		</article><p><a href="#top"><em>Up to the top!</em></a></p><article>
+		<br>
+	<div class="block_1"></div><div class="holine"></div>
+		<br>
+	<div class="block_1"></div><div class="hline2"></div>
+	<script></script>
+</body>
